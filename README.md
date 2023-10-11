@@ -6,7 +6,7 @@ Version 0:
 -Prison is created
 
 Version 1:
--Redstone lines are converted to observer-noteblock chains \n
+-Redstone lines are converted to observer-noteblock chains
 -Cell changed from timed-push box to cobblestone generator
 -Respawn area redone
 -Sections color coded
