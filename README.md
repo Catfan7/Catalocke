@@ -1,6 +1,6 @@
 # Catalocke
 
-First Minecraft Prison
+First Minecraft Prison, 
 Spigot 1.17
 
 Version 0:
@@ -21,3 +21,12 @@ End exploit prevention -
 Mostly everything is in crawl mode - 
 Really obscure portal reference - 
 Overall better
+
+Version 2:
+Guard Controls Rearranged - 
+Added Item Vault - 
+Added Control Guard Autopanic - 
+Submerged Entry Hallways - 
+Added Conduit - 
+Added Area Ban Diagram on top of prison - 
+Section of Guard Rooms that was areabanned by Portal Kicker is now blocked off when kicker is on
