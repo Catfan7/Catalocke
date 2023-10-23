@@ -19,7 +19,7 @@ Mining detector redone -
 Outside turned from big obsidian cube to layer of concrete on the outside (but still an obsidian cube) - 
 End exploit prevention - 
 Mostly everything is in crawl mode - 
-Really obscure portal reference - 
+Really obscure Portal reference - 
 Overall better
 
 Version 2:
