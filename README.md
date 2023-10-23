@@ -36,4 +36,4 @@ Added 12-block thick lava grid -
 Ban Machines now have space where redstone torch used to be before theoretically breaking it and stasising out right away, therefore the ban machines are actually possible - 
 Added water in the guard chutes (so no more fall damage) - 
 Made item vault actually leavable when closing the door on yourself (noteblock in floor opens sea lantern) - 
-No more ideas, cannot improve Catalocke without redesigning it... I might do that
+No more ideas, cannot majorly improve Catalocke without redesigning it... I might do that
