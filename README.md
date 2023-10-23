@@ -1,12 +1,12 @@
 # Catalocke
 
-First Minecraft Prison, 
+First Minecraft Prison,  
 Spigot 1.17
 
-Version 0:
+Version 0:  
 -Prison is created
 
-Version 1:
+Version 1:  
 -Redstone lines are converted to observer-noteblock chains  
 -Cell changed from timed-push box to cobblestone generator  
 -Respawn area redone  
@@ -22,7 +22,7 @@ Version 1:
 -Really obscure Portal reference  
 -Overall better  
 
-Version 2:
+Version 2:  
 -Guard Controls Rearranged  
 -Added Item Vault  
 -Added Control Guard Autopanic  
@@ -31,7 +31,7 @@ Version 2:
 -Added Area Ban Diagram on top of prison  
 -Section of Guard Rooms that was areabanned by Portal Kicker is now blocked off when kicker is on
 
-Version 3:
+Version 3:  
 -Added 12-block thick lava grid  
 -Ban Machines now have space where redstone torch used to be before theoretically breaking it and stasising out right away, therefore the ban machines are actually possible  
 -Added water in the guard chutes (so no more fall damage)  
