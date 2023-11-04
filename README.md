@@ -1,5 +1,7 @@
 # Catalocke
 
+Guard Handbook - https://docs.google.com/document/d/1tZI0xaTVQJuhCwpAtqYuEqDhJkaI6fjc97qXfmfhuV0/edit?usp=sharing  
+
 First Minecraft Prison,  
 Spigot 1.17
 
